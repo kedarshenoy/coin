@@ -1,0 +1,66 @@
+.carousalimg{
+    height: 470px;
+    max-width:400px ;
+    box-shadow: 5px 5px 4px #0b050529;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    border: none;
+    border-collapse: collapse;
+
+}
+body{
+    background-color: burlywood;
+}
+
+.carousalimgmyc{
+    /* height: 470px; */
+    max-width:250px ;
+    /* box-shadow: 5px 5px 4px #0b050529; */
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-collapse: collapse;
+    cursor: pointer;
+}
+
+.carousalimgantique{
+    height: 340px;
+    max-width: 260px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-collapse: collapse;
+    cursor: pointer;
+
+}
+
+.coinbox{
+    padding: 20px;
+    cursor: pointer;
+    
+}
+
+
+.container{
+    display: flex;
+    height: 100%vh;
+    align-items: center;
+
+}
+
+.heading{
+    /* margin-left: 10px; */
+    text-align: center;
+}
+
+.btndiv{
+    /* margin-top: 20px; */
+    text-align: center;
+
+}
+
+.control-dots , .control-arrow {
+    display: none;
+}
+
+
