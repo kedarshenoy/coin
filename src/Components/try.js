@@ -1,652 +1,152 @@
+[
 {
-    " 1 rupee type1": {
-      "2011": {
-        "*": false,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2012": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2013": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2014": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2015": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2016": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2017": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2018": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2019": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2020": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2021": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2022": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      },
-      "2023": {
-        "*": true,
-        "plain": true,
-        "^": true,
-        ".": true
-      }
-    },
+  "coin": "Vaishno Devi",
+  "year": "2018",
+  "mint": "Mumbai",
+  "img": "url"
+},
+{
+  "coin": "Vaishno Devi",
+  "year": "2018",
+  "mint": "Mumbai",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "2006",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "1995",
+  "mint": "Noida",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "1995",
+  "mint": "Mumbai",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "2010",
+  "mint": "Noida",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "2014",
+  "mint": "Noida",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "2009",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "2011",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Five Rupee",
+  "year": "2010",
+  "mint": "Kolkata",
+  "img": "url"
+},
+{
+  "coin": "Two Rupee",
+  "year": "1995",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Two Rupee",
+  "year": "1998",
+  "mint": "Mumbai",
+  "img": "url"
+},
+{
+  "coin": "Two Rupee",
+  "year": "2003",
+  "mint": "Noida",
+  "img": "url"
+},
+{
+  "coin": "Fifty Paise",
+  "year": "1995",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Ten Paise",
+  "year": "1995.",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Ten Paise",
+  "year": "1979.",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Twentyfive Paise",
+  "year": "1989.",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "One Rupee",
+  "year": "1935.",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "One Rupee",
+  "year": "1989.",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "One Rupee",
+  "year": "1991.",
+  "mint": "Mumbai",
+  "img": "url"
+},
+{
+  "coin": "One Rupee",
+  "year": "1989.",
+  "mint": "Noida",
+  "img": "url"
+},
+{
+  "coin": "Twenty Paise",
+  "year": "1982",
+  "mint": "Kolkata",
+  "img": "url"
+},
+{
+  "coin": "Fifty Paise",
+  "year": "1984",
+  "mint": "Kolkata",
+  "img": "url"
+},
+{
+  "coin": "Twenty Paise",
+  "year": "1948",
+  "mint": "Hyderabad",
+  "img": "url"
+},
+{
+  "coin": "Twenty Paise",
+  "year": "1984",
+  "mint": "Mumbai",
+  "img": "url"
+}]
 
-    " 1 rupee type2": {
-        "2011": {
-          "*": false,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2012": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2013": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2014": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2015": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2016": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2017": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2018": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2019": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2020": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2021": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2022": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2023": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        }
-      },
-
-
-      " 1 rupee type3": {
-        "2011": {
-          "*": false,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2012": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2013": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2014": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2015": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2016": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2017": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2018": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2019": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2020": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2021": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2022": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2023": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        }
-      },
-
-      " 1 rupee type4": {
-        "2011": {
-          "*": false,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2012": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2013": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2014": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2015": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2016": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2017": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2018": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2019": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2020": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2021": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2022": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2023": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        }
-      },
-
-      " 1 rupee type5": {
-        "2011": {
-          "*": false,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2012": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2013": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2014": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2015": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2016": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2017": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2018": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2019": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2020": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2021": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2022": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2023": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        }
-      },
-
-      " 1 rupee type6": {
-        "2011": {
-          "*": false,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2012": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2013": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2014": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2015": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2016": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2017": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2018": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2019": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2020": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2021": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2022": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2023": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        }
-      },
-
-      " 1 rupee type7": {
-        "2011": {
-          "*": false,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2012": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2013": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2014": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2015": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2016": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2017": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2018": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2019": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2020": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2021": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2022": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2023": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        }
-      },
-
-      " 1 rupee type8": {
-        "2011": {
-          "*": false,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2012": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2013": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2014": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2015": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2016": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2017": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2018": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2019": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2020": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2021": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2022": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        },
-        "2023": {
-          "*": true,
-          "plain": true,
-          "^": true,
-          ".": true
-        }
-      }
-
-
-  }

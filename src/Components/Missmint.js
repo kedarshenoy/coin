@@ -1,3 +1,4 @@
+import '../Styles/home.css'
 
 import axios from 'axios';
 import { useEffect, useState } from 'react';
@@ -31,9 +32,9 @@ const Missmint =()=>{
                         coins.map((item,index)=>{
                                 return(
                                         <div className='col-lg-4 col-md-6 col-sm-6 col-xl-3 col-xs-12 coinbox' key={index} >
-                                                <img src={require(`../missmint/${index+1}.jpg`)} className="carousalimgmyc" alt="m" />
+                                                <img src={require(`../missmint/${index+1}.jpg`)} className="carousalimgantique" alt="m" />
                                                 <h4>{item.coin}</h4>
-                                                <p><b>Year :</b> {item.year} <b> Mint :</b> {item.mint} </p>
+                                                <p><b>Year :</b> {item.year} <b className='mx-2'> Mint :</b> {item.mint} </p>
                                         </div>    
                                 )
                         })

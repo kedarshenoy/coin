@@ -13,7 +13,9 @@ var  customStyles={
              marginRight: '-50%',
              transform: 'translate(-50%, -50%)',
              border: '0.5px solid #807474',
-             width: 'fit-content',
+            //  width: 'fit-screen',
+            maxWidth: '90vw',
+            //  width: 'fit-content',
              height:'90vh'
         
             //  width: '350px'
@@ -104,50 +106,50 @@ const Mycollections =()=>{
                 <div className='col-lg-4 col-md-6 col-sm-6 col-xl-3 col-xs-12 coinbox' onClick={()=>{clickhandler("antique")}} >
                         <img src={require("../coins/5.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Antique Coins</h4>
-                        <p>Total Number of Coins : 15</p>
+                        <p>Total Number of Coins : 32</p>
                      </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-xl-3 col-xs-12 coinbox'onClick={()=>{clickhandler("special")}} >
-                        <img src={require("../coins/14.jpg")} className="carousalimgmyc" alt="m" />
+                        <img src={require("../coins3/3.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Special Circulation</h4>
-                        <p>Total Number of Coins : 10</p>
+                        <p>Total Number of Coins : 26</p>
 
 
                      </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-xl-3 col-xs-12 coinbox'onClick={()=>{clickhandler("regular")}}>
                         <img src={require("../coins2/2.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Regular Circulation</h4>
-                        <p>Total Number of Coins : 10</p>
+                        <p>Total Number of Coins : 155</p>
 
 
                      </div>
                 <div className='col-lg-4 col-md-6 col-sm-6  col-xl-3 col-xs-12 coinbox' onClick={()=>{clickhandler("missmint")}}>
                         <img src={require("../missmint/1.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Miss Mint</h4>
-                        <p>Total Number of Coins : 10</p>
+                        <p>Total Number of Coins : 9</p>
                      </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-xl-3 col-xs-12 coinbox' onClick={()=>{callmint("m"); setmodal(true); setmint("Bombay")}}>
-                        <img src={require("../coins/1.jpg")} className="carousalimgmyc" alt="m" />
+                        <img src={require("../coins/31.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Bombay Mint</h4>
-                        <p>Total Number of Coins : 10</p>
+                        <p>Total Number of Coins : 45</p>
                      </div>
                 <div className='col-lg-4 col-md-6 col-sm-6 col-xl-3 col-xs-12 coinbox' onClick={()=>{callmint("h"); setmodal(true); setmint("Hydrabad")}}>
-                        <img src={require("../coins/1.jpg")} className="carousalimgmyc" alt="m" />
+                        <img src={require("../coins/23.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Hyderabad Mint</h4>
-                        <p>Total Number of Coins : 10</p>
+                        <p>Total Number of Coins : 50</p>
 
 
                      </div> 
                 <div className='col-lg-4 col-md-6 col-sm-6 col-xl-3 col-xs-12 coinbox' onClick={()=>{callmint("k");setmodal(true); setmint("Kolkata")}}>
-                        <img src={require("../coins/1.jpg")} className="carousalimgmyc" alt="m" />
+                        <img src={require("../coins2/1.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Kolkata Mint</h4>
-                        <p>Total Number of Coins : 10</p>
+                        <p>Total Number of Coins : 20</p>
 
 
                      </div>
                 <div className='col-lg-4 col-md-6 col-sm-6  col-xl-3 col-xs-12 coinbox' onClick={()=>{callmint("n");setmodal(true); setmint("Noida")}}>
-                        <img src={require("../coins/1.jpg")} className="carousalimgmyc" alt="m" />
+                        <img src={require("../coins/42.jpg")} className="carousalimgmyc" alt="m" />
                         <h4>Noida Mint</h4>
-                        <p>Total Number of Coins : 10</p>
+                        <p>Total Number of Coins : 30</p>
 
 
                      </div>
@@ -197,5 +199,6 @@ const Mycollections =()=>{
         </>
     )
 }
+
 
 export default Mycollections;
